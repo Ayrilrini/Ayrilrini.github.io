@@ -6,7 +6,7 @@
   <link href="https://ayrilrini.github.io/atom.xml" rel="self"/>
   
   <link href="https://ayrilrini.github.io/"/>
-  <updated>2021-07-03T19:02:00.148Z</updated>
+  <updated>2021-07-17T17:01:58.521Z</updated>
   <id>https://ayrilrini.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>My First Blog</title>
+    <link href="https://ayrilrini.github.io/2021/07/18/My-First-Blog/"/>
+    <id>https://ayrilrini.github.io/2021/07/18/My-First-Blog/</id>
+    <published>2021-07-17T16:59:08.000Z</published>
+    <updated>2021-07-17T17:01:58.521Z</updated>
+    
+    <content type="html"><![CDATA[<p>tags: #日常</p><p>这是我的第一篇博客！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;tags: #日常&lt;/p&gt;
+&lt;p&gt;这是我的第一篇博客！&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
